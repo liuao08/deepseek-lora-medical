@@ -19,7 +19,7 @@ json
 "Complex_CoT": "详细的思维分析过程",
 "Response": "规范的医疗建议回答"
 }
-
+......
 ## 环境要求
 
 - Python 3.8+
